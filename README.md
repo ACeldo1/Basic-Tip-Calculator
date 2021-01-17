@@ -22,7 +22,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 - Various settings such as:
     -Including a dark mode
     -The ability to change preset values
