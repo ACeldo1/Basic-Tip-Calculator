@@ -22,10 +22,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- Various settings such as:
-    -Including a dark mode
-    -The ability to change preset values
-    -An option to reset settings to default values
+* Including a dark mode
+* The ability to change preset values
+* An option to reset settings to default values
     
 ## Video Walkthrough
 
