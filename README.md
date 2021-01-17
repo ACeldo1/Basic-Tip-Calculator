@@ -1,4 +1,4 @@
-# Pre-work - *Basic Tip Calculator*
+# Pre-work - *Basic Tip Calculator* (in progress)
 
 **Basic Tip Calculator** is a tip calculator application for iOS.
 
