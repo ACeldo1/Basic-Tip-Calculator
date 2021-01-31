@@ -31,7 +31,7 @@ Video Walkthrough
 
 GIF created with LiceCap.
 
-Notes
+Notes:
 This was my first attempt at building an app for a mobile device and my first experience with Swift. The syntax for the language was difficult for me to grasp and minor errors eluded me frequently. I also was not familiar with XCode and Interface Builder at all, but IB was very fun to experiment with and exploring the different types of UIElements available for implementation was nothing short of intriguing.
 
 License
