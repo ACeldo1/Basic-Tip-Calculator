@@ -15,16 +15,17 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented: (in progress)
 
-* [ incomplete] UI animations
-* [Complete] Remembering the bill amount across app restarts (if <10mins)
-* [ incomplete] Using locale-specific currency and currency thousands separators.
-* [Complete] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [ complete] UI animations
+* [ complete] Remembering the bill amount across app restarts (if <10mins)
+* [ partially complete] Using locale-specific currency and currency thousands separators.
+* [ complete] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-* Including a dark mode
+* Dark mode option
 * The ability to change preset values
 * An option to reset currently implemented settings to default values
+* Split bill for a party of up to five
     
 ## Video Walkthrough (in progess)
 
@@ -36,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This was my first attempt at building an app for a mobile device and my first experience with Swift. The syntax for the language was difficult for me to grasp and minor errors eluded me frequently. I also was not familiar with XCode and Interface Builder, but IB was very fun to experiment with.
+This was my first attempt at building an app for a mobile device and my first experience with Swift. The syntax for the language was difficult for me to grasp and minor errors eluded me frequently. I also was not familiar with XCode and Interface Builder at all, but IB was very fun to experiment with and exploring the different types of UIElements available for implementation was nothing short of intriguing.
 
 ## License
 
