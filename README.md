@@ -1,5 +1,5 @@
-# Pre-work - Basic Tip Calculator
-Basic Tip Calculator is a tip calculator application for iOS.
+# Pre-work - Tipulator
+Tipulator is a basic tip calculator application for iOS.
 
 Submitted by: Andy Celdo
 
